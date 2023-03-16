@@ -1,0 +1,1 @@
+Exploring monorepo organization for Noir Apps.
